@@ -8,7 +8,7 @@ To create Django Project:
     django-admin startproject <name>
 
 To create Django App inside Project:
-
+    manage.py startapp <name>
 
 To run the Django Project:
     manage.py runserver
