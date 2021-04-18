@@ -1,0 +1,15 @@
+To create virutal env:
+    virtualenv <name>
+
+To activate virtual env:
+    <name>\Scripts\activate
+
+To create Django Project:
+    django-admin startproject <name>
+
+To create Django App inside Project:
+
+
+To run the Django Project:
+    manage.py runserver
+        >>Press ctrl+c to stop server
