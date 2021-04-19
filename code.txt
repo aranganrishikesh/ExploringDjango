@@ -13,3 +13,8 @@ To create Django App inside Project:
 To run the Django Project:
     manage.py runserver
         >>Press ctrl+c to stop server
+
+To create superuser in Django:
+    manage.py createsuperuser
+
+Youtube Course Link:  https://www.youtube.com/watch?v=04L0BbAcCpQ
